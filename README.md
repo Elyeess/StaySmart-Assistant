@@ -1,7 +1,8 @@
 # StaySmart & RealReview Assistant 🏡
 
-Une application Streamlit intelligente pour :
+Une application Streamlit intelligente:
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/de6b88ac-2d6b-4d07-8276-c98cb9d95036" />
 
 ## 🚀 Lancer l'application
 
