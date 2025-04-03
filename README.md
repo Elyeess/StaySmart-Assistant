@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 ## 💪 Contributeurs
 
-Ce projet a été développé par **Donia Tekaya & Mohamed Elyes Maalel**.
+Ce projet a été développé par **Mohamed Elyes Maalel & Donia Tekaya**.
