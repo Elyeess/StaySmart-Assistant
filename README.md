@@ -17,6 +17,10 @@ git clone https://github.com/doniatekaya/StaySmart-RealReview-Assistant.git
 pip install -r requirements.txt
 ```
 
+## 💪 Contributeurs
+
+Ce projet a été développé par **Donia Tekaya & Mohamed Elyes Maalel**.
+
 ### 3. Lancer l’application Streamlit
 
 ```                                                                                                                                                                               streamlit run streamlit run app.py
