@@ -18,10 +18,7 @@ pip install -r requirements.txt
 ```
 
 
-### 3. Lancer l’application Streamlit
 
-```                                                                                                                                                                               streamlit run streamlit run app.py
-```
 
 ## 💪 Contributeurs
 
