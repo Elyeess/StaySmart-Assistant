@@ -7,16 +7,16 @@ Une application Streamlit intelligente pour :
 
 ### 1. Cloner le repository
 
-```bash
+```
 git clone https://github.com/doniatekaya/StaySmart-RealReview-Assistant.git
 cd nom-du-repo
-```bash
+```
 
 ### 2. Installer les dépendances
 
-```bash
+```
 pip install -r requirements.txt
-```bash
+```
 
 ### 3. Lancer l’application Streamlit
 
