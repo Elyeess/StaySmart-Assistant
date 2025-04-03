@@ -1,8 +1,0 @@
-streamlit
-pandas
-pymongo
-langdetect
-deep-translator
-sentence-transformers
-transformers
-torch
